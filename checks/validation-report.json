@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:08.693952+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4801-dark-trap-basslines-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "aceebf6b7fc19e30c74fa4a5bda6246fdb55e5cba0b8fc37245b6bfb81484a49",
+      "errors": []
+    },
+    {
+      "path": "midi/z4801-dark-trap-basslines-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "9b662e47a893e43ad7145b8c1879aefd48739aa9988b42a000dde4ddcd3ee390",
+      "errors": []
+    },
+    {
+      "path": "midi/z4801-dark-trap-basslines-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "5fb47c852f519dfc35ce28220f755dcded5c7f2d168eb9d49ff0f1701303a517",
+      "errors": []
+    },
+    {
+      "path": "midi/z4801-dark-trap-basslines-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "320ff31e7e282902cfaf4935dc94e38fa31f9d869c64b8d59d70a07aac367069",
+      "errors": []
+    },
+    {
+      "path": "midi/z4801-dark-trap-basslines-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "a23f4b561373266be7fa0935ad543381374426f54b8628999d2e4a23e9502b65",
+      "errors": []
+    },
+    {
+      "path": "midi/z4801-dark-trap-basslines-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "82edf735f6ccbb4e52843c730f95ac2f3d16155e032f7472d8f903c9fdcefa98",
+      "errors": []
+    },
+    {
+      "path": "midi/z4801-dark-trap-basslines-opening/z4801-dark-trap-basslines-opening-combined.mid",
+      "bytes": 5727,
+      "sha256": "d89547ae3d2bd3e443ecf85618502422e308e16b49c038da28fe86bf19edb68a",
+      "errors": []
+    },
+    {
+      "path": "midi/z4802-dark-trap-basslines-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "3d48690feab4fc3669f48b710b030a17a78cc213b6ed3dfb0ce810f8ba254492",
+      "errors": []
+    },
+    {
+      "path": "midi/z4802-dark-trap-basslines-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "2b26ea0cd65e509af49c7d7519412fc594343b41a5ed60fa5bcaa40f4f0624de",
+      "errors": []
+    },
+    {
+      "path": "midi/z4802-dark-trap-basslines-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "5fb47c852f519dfc35ce28220f755dcded5c7f2d168eb9d49ff0f1701303a517",
+      "errors": []
+    },
+    {
+      "path": "midi/z4802-dark-trap-basslines-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "1af8e09a207871ba9d2d147f0b80e49500011646bf044947449889e678a3ac70",
+      "errors": []
+    },
+    {
+      "path": "midi/z4802-dark-trap-basslines-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "4f639105ed3cc2002eb6fe177b3e0bd0a0a53a8bb2946ee32b68bcb273e051b6",
+      "errors": []
+    },
+    {
+      "path": "midi/z4802-dark-trap-basslines-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "dc033f6ccc4873a5488013f54feaccaa05899cd32babf451c78743a3fd9fc17f",
+      "errors": []
+    },
+    {
+      "path": "midi/z4802-dark-trap-basslines-variation/z4802-dark-trap-basslines-variation-combined.mid",
+      "bytes": 5726,
+      "sha256": "598208567dc8cb8204f81eea383af2d797e0afb9a7a4b200fe6f304f97c434b1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4803-dark-trap-basslines-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "7e96c2f1ff383527d56673d799dde1858dd638263c29d63ab3b159249cd63e9d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4803-dark-trap-basslines-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "7b728caa803cb040e60979f2ddcb17203d02973938222199ce9fb1679297a2b1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4803-dark-trap-basslines-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "5fb47c852f519dfc35ce28220f755dcded5c7f2d168eb9d49ff0f1701303a517",
+      "errors": []
+    },
+    {
+      "path": "midi/z4803-dark-trap-basslines-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "22167ad7ce2c75aa78d454b593013037af59499ad9043fe901ace3b308ea1842",
+      "errors": []
+    },
+    {
+      "path": "midi/z4803-dark-trap-basslines-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "20f560499c3e533280fc9ee9028d73d5aa7f4c20e8420cb5654f2522d55c0705",
+      "errors": []
+    },
+    {
+      "path": "midi/z4803-dark-trap-basslines-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4717e9213be7995888ff5394b3851314b58dede3fd80bf40299f30831ea83c27",
+      "errors": []
+    },
+    {
+      "path": "midi/z4803-dark-trap-basslines-contrast/z4803-dark-trap-basslines-contrast-combined.mid",
+      "bytes": 5692,
+      "sha256": "c5a3c39716f98eeed3c324b9c7675409018f331540cc262369c966d625f08f98",
+      "errors": []
+    },
+    {
+      "path": "midi/z4804-dark-trap-basslines-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "063c4251d060653e8affce9494632c20516802a8f9c9ddb7ea91bc4bea9d928f",
+      "errors": []
+    },
+    {
+      "path": "midi/z4804-dark-trap-basslines-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "289d05d83d7ae55376038ddc04d6793e57019ab8798e7d96060affbe39da9ea4",
+      "errors": []
+    },
+    {
+      "path": "midi/z4804-dark-trap-basslines-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "5fb47c852f519dfc35ce28220f755dcded5c7f2d168eb9d49ff0f1701303a517",
+      "errors": []
+    },
+    {
+      "path": "midi/z4804-dark-trap-basslines-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "a412f8172221b4458bffa1a9b7dea82c8b6c5f9a3d3992e3a27f234a79b5b0c9",
+      "errors": []
+    },
+    {
+      "path": "midi/z4804-dark-trap-basslines-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "4daf1c08d2dfb400327e2550029baebd40ea7648120b58733bb0a20a324c7461",
+      "errors": []
+    },
+    {
+      "path": "midi/z4804-dark-trap-basslines-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2f334f0b7a9c49ed65ea21c89cadb075cceab0e1bf7ae6737d142847e319482a",
+      "errors": []
+    },
+    {
+      "path": "midi/z4804-dark-trap-basslines-return/z4804-dark-trap-basslines-return-combined.mid",
+      "bytes": 5692,
+      "sha256": "9628dd3d1c57173c36b3e076669d65ec235574624260a1caa2ef9243a7a9db39",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

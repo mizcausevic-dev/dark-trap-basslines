@@ -1,0 +1,26 @@
+{
+  "title": "Dark Trap Basslines",
+  "study": "z4801",
+  "bpm": 140,
+  "source_audio": "preview/dark-trap-basslines-simple-synth-preview.mp3",
+  "source_audio_sha256": "e1c6567748edfdc1df2b106db51116f7c7f3f56dd0c9f4cb09f95a25b6fc678f",
+  "source_midi": "midi/z4801-dark-trap-basslines-opening/z4801-dark-trap-basslines-opening-combined.mid",
+  "source_midi_sha256": "d89547ae3d2bd3e443ecf85618502422e308e16b49c038da28fe86bf19edb68a",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "0f500e073aa9108fb1602c0cf058f04c09b096e26b541e84338360d61e258545",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "41574c821f89e517cf9213131c6e2f754d43f692f471c13bf2220a7e9ccd31f9",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "7b427d606aa7c5e0c8ba41540c454e2fdb78ace8dbd265b528e7a4eabbfe2a0d",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
