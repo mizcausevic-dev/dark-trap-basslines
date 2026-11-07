@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dark-trap-basslines-midi.zip",
-      "bytes": 31462,
-      "sha256": "f879fad31380b2cfab4b295a8f72ba06c52263b1a9d63ebafb41952318e4cd04"
+      "bytes": 32449,
+      "sha256": "3631630ddae594a7e02e72318efd777899377255f1d732f9a646a6dbfea4760a"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9900,
-      "sha256": "6e61199903684dedb9f63b0380f831fce28e1f3e818a35f5fe08fbf75b5a23d4"
+      "bytes": 10090,
+      "sha256": "8470ce7f73c0df49776cb602c0e8731fd23b08613298ab7ecc514378e1e39d59"
     },
     {
       "path": "midi/z4801-dark-trap-basslines-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "9628dd3d1c57173c36b3e076669d65ec235574624260a1caa2ef9243a7a9db39"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dark-trap-basslines-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "e1c6567748edfdc1df2b106db51116f7c7f3f56dd0c9f4cb09f95a25b6fc678f"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3953,
-      "sha256": "c2e62eedc03c692c7963ff8abeb9d22847a98d1bc717b1408774f35d390e5db4"
+      "bytes": 4068,
+      "sha256": "21bfc1faa73a14009ce7ae64dbc014ffa9840d7fb3c1adbb6c831403b5603fdd"
     },
     {
       "path": "social/instagram/caption.txt",
